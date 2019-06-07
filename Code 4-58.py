@@ -12,4 +12,4 @@ print()
 print("# reversed() 함수와 반복문")
 print("for i in reversed([1, 2, 3, 4, 5]):")
 for i in reversed(list_a):
-    print("-", i)
+    print("-", i)   
