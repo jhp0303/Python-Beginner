@@ -4,7 +4,7 @@ result = ["1"]
 # 10번째까지의 개미 수열을 구합니다.
 for i in range(10):
     # 과정을 볼 수 있게 출력하겠습니다.
-    print("",join(result))
+    print("".join(result))
 
     # 변수를 선언합니다.
     next = []   # 다음 단계의 개미 수열을 구해 넣을 리스트
